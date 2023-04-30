@@ -3,7 +3,7 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/about">About123</router-link> |
+      <router-link to="/about">if</router-link> |
       <router-link to="/sam">Sam</router-link>
     </nav>
     <router-view/>
