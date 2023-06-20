@@ -26,7 +26,7 @@
     name: 'layoutHeader ',
   }
 </script>
-<style>
+<style scoped>
     .jam{
         width: 900px !important;
         height: 480px !important;
